@@ -5,7 +5,7 @@
                 <div class="card-icon-i">
                     <i class="fa fa-calendar"></i>
                 </div>
-                <h3>Calendar</h3>
+                <h3>Calendario</h3>
             </div>
         </div>
         <div class="card-icon">
