@@ -46,6 +46,8 @@ export default {
 }
 .title {
   text-align: center;
+  color: black;
+
 }
 .form {
   margin: 3rem auto;
@@ -59,6 +61,7 @@ export default {
   border-radius: 5px;
   padding: 40px;
   box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.3);
+
 }
 .form-label {
   margin-top: 2rem;
